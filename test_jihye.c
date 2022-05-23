@@ -8,6 +8,7 @@ main(){
   printf(input);
   printf("Hello world!!");
   printf("jihye is stupid");
+  printf("jihye grade B+");
 
   return 0;
 }
